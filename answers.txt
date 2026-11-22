@@ -1,5 +1,5 @@
 Q1:
-The orchestrator started it into both cases weather it was swarm or k3s its orchestrator was constantly monitoring replica count that was asked for and what was actually running. This was triggered since copy was deleted
+The orchestrator started it into both cases whether it was swarm or k3s its orchestrator was constantly monitoring replica count that was asked for and what was actually running. This was triggered since copy was deleted
 
 Q2:
 Docker swarm is integrated into docker no need to integrate anything else, not much of learning curve same tool. K3s might be a better choice over full kubernetes because it is stripped down to the essentials which is good for smaller setups that are less powerfull as full on kubernetes takes a lot more resources.
