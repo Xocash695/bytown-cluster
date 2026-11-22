@@ -1,0 +1,5 @@
+NAME                          READY   STATUS    RESTARTS   AGE   IP          NODE                  NOMINATED NODE   READINESS GATES
+bytown-web-79559d4cb5-6lwj6   1/1     Running   0          21s   10.42.1.4   k3d-bytown-agent-1    <none>           <none>
+bytown-web-79559d4cb5-pchfh   1/1     Running   0          21s   10.42.1.5   k3d-bytown-agent-1    <none>           <none>
+bytown-web-79559d4cb5-qp8md   1/1     Running   0          21s   10.42.0.6   k3d-bytown-agent-0    <none>           <none>
+bytown-web-79559d4cb5-zqj8v   1/1     Running   0          21s   10.42.2.5   k3d-bytown-server-0   <none>           <none>
